@@ -27,8 +27,8 @@ These factors create an interesting challenge. For more information about handli
 ## Repository Navigation
   Our repositoty has 5 branches, 4 branches allocated to the team members for their individual contributions, a main branch that includes a final notebook, a final presentation, a ReadMe file as well as a .gitignore file. Individual notebooks are stored in their own respective directory in the repository root.
   
-[Final Notebook](339986048_Methods_of_Handling_Unbalanced_Datasets_in_Credit_Card_Fraud_Detection)
-[Presentation](339986048_Methods_of_Handling_Unbalanced_Datasets_in_Credit_Card_Fraud_Detection)
+[Final Notebook](https://github.com/ShaneR31/Final-Flatiron-Capstone/blob/main/Final%20Capstone%20Notebook%20-%20Jupyter%20Notebook.pdf)
+[Presentation](https://github.com/ShaneR31/Final-Flatiron-Capstone/blob/main/Group%2010%20Final%20Presentation.pdf)
 
 Reproduction instructions:
 Clone repository, Download required data from [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and store CSV in repo Data folder. Run notebooks normally, some required packages may need to be installed.
