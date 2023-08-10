@@ -9,17 +9,23 @@ merchandise.
 ## Business Understanding and Data Understanding
 - Explain the project context, using at least one citation to demonstrate your domain understanding
   
-- This is a binary classification project with highly imbalanced dataset. We are looking for an AI driven strategy that will effectively identify patterns in fraud transactions
+  This is a binary classification project with highly imbalanced dataset. We are looking for an AI driven strategy that will effectively identify patterns in fraud transactions
 - Consider including visualizations as well
 ![image](https://github.com/ShaneR31/Final-Flatiron-Capstone/assets/124909566/302682b5-ea2c-4fac-b022-25f9642bb89f)
+![image](https://github.com/ShaneR31/Final-Flatiron-Capstone/assets/124909566/98653ee7-f737-4f62-88ad-b5007bff5ab1)
+![image](https://github.com/ShaneR31/Final-Flatiron-Capstone/assets/124909566/a723e844-c1cf-4b8f-b259-9c1276fb19cb)
+![image](https://github.com/ShaneR31/Final-Flatiron-Capstone/assets/124909566/c9d60b11-31a1-4433-8d4b-013d997b80ae)
+
+
+
 
 
 
 ## Modeling and Evaluation
 - what kind of model(s) did you use?
   
-- We applied a class weight or binary crossentropy function (loss function) to our Artificial Neural Networkv (ANNs), Boosting ensemble (XGBoost) and Trees Ensemble(Random Forest & Decision Trees) models.
-- Even though we applied a weighted accuracy metric to our models, we chose to ignore its score to focus on metrics such as Recall & Precision, F1-score, Weighted Average and the Confusion Matrix to select our best model performer
+  We applied a class weight or binary crossentropy function (loss function) to our Artificial Neural Networkv (ANNs), Boosting ensemble (XGBoost) and Trees Ensemble(Random Forest & Decision Trees) models.
+  Even though we applied a weighted accuracy metric to our models, we chose to ignore its score to focus on metrics such as Recall & Precision, F1-score, Weighted Average and the Confusion Matrix to select our best model performer
   
 - How well did your final model perform, compared to the baseline?
   
@@ -34,7 +40,7 @@ merchandise.
 ## Repository Navigation
 - An explanation of the repository organization
   
-- Our repositoty has 5 branches, 4 branches allocated to the team members, a main branch that includes a final notebook, a final presentation, a Read Me file as well as a .gitignore file
+  Our repositoty has 5 branches, 4 branches allocated to the team members for their individual contributions, a main branch that includes a final notebook, a final presentation, a Read Me file as well as a .gitignore file
   
 - Links to the final notebook and presentation
 - Reproduction instructions (or a link to them)
