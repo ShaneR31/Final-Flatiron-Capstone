@@ -28,6 +28,7 @@ These factors create an interesting challenge. For more information about handli
   Our repositoty has 5 branches, 4 branches allocated to the team members for their individual contributions, a main branch that includes a final notebook, a final presentation, a ReadMe file as well as a .gitignore file. Individual notebooks are stored in their own respective directory in the repository root.
   
 [Final Notebook](https://github.com/ShaneR31/Final-Flatiron-Capstone/blob/main/Final%20Capstone%20Notebook%20-%20Jupyter%20Notebook.pdf)
+
 [Presentation](https://github.com/ShaneR31/Final-Flatiron-Capstone/blob/main/Group%2010%20Final%20Presentation.pdf)
 
 Reproduction instructions:
