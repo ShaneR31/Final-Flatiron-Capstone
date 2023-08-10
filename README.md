@@ -19,7 +19,7 @@ These factors create an interesting challenge. For more information about handli
 
 We began our modeling by loading in the dataset and doing some basic data exploration. From this we were able to identify the significant class imbalance within the data, note the distribution of various features, and see which features are significant when relating to fraud. With our new understanding of the data set we were able to create a baseline model with a logistic regression. When examining the metrics generated when evaluating the model against the test set and confusion matrix, it became immediately clear that accuracy would not be a useful measure of model performance due to the class imbalance. Therefore, we shifted our focus to interpretting model performance against more useful measures like precision, recall, and AUC ROC.
 
-After establishing our baseline model performance we tested several potential ways to rebalance our dataset, these included undersampling, oversampling with SMOTE, and a combination of both. With our corrections to the class balances we moved on to more advanced models, these included...
+After establishing our baseline model performance we tested several potential ways to rebalance our dataset, these included undersampling, random oversampling, and oversampling with SMOTE. With our corrections to the class balances we moved on to more advanced models, these included...
 
 
 We applied a class weight or binary crossentropy function (loss function) to our Artificial Neural Networkv (ANNs), Boosting ensemble (XGBoost) and Trees Ensemble(Random Forest & Decision Trees) models.
